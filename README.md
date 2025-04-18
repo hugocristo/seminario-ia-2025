@@ -54,7 +54,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * CLIPS: A NASA Developed Expert System Tool," NASA Tech Briefs, pp 12-14, Nov/Dec 1987. http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100028277.pdf
 * Stanford (2016): [One Hundred Year Study on Artificial Intelligence](https://ai100.stanford.edu/2016-report)
 * Time (18/01/2023): [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
-* Gary Marcus, Revista New Yorker (2014): [What Comes After the Turing Test?]([https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test])
+* Gary Marcus, Revista New Yorker (2014): [What Comes After the Turing Test?](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test)
 * NVIDIA Developer Blog (2023): [Masterling LLM Techniques: LLMOps](https://developer.nvidia.com/blog/mastering-llm-techniques-llmops/)
 * NVIDIA Developer Blog (2023): [RAG 101: Retrieval-Augmented Generation Questions Answered](https://developer.nvidia.com/blog/rag-101-retrieval-augmented-generation-questions-answered/)
 * NVIDIA Developer Blog (2023): [How to Get Better Outputs from Your Large Language Model](https://developer.nvidia.com/blog/how-to-get-better-outputs-from-your-large-language-model/)

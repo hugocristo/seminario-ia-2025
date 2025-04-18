@@ -1,6 +1,6 @@
 # Seminário de Pesquisa em Metodologia Científica (PPGP0104) - 2025/1
 
-Boas-vindas ao repositório do seminário cujo tema é *Introdução à Inteligência Artificial para Pesquisas em Psicologia* (2025/1) do [Programa de Pós-Graduação em Psicologia](https://psicologia.ufes.br/pt-br/pos-graduacao/PPGP) da Universidade Federal do Espírito Santo. 
+Boas-vindas ao repositório do seminário *Introdução à Inteligência Artificial para Pesquisas em Psicologia* (2025/1), ofertado pelo [Programa de Pós-Graduação em Psicologia](https://psicologia.ufes.br/pt-br/pos-graduacao/PPGP) da Universidade Federal do Espírito Santo. 
 
 Nesta página você encontrará todo o material citado e apresentado ao longo dos encontros, bem como indicações de *links* para a instalação ou acesso às aplicações demonstradas.
 
@@ -74,6 +74,7 @@ Conteúdo em construção.
 
 ## 15/05 - IA na Ciência Psicológica
 
+<<<<<<< HEAD
 Conteúdo em construção.
 
 ## 22/05 - Seminários sobre aplicações
@@ -109,3 +110,6 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+=======
+## 22/05 - Seminários sobre aplicações
+>>>>>>> 64ce30c4347d7bf1bb16544fa5e1aaffc4355103

@@ -16,11 +16,12 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * Prof. Dr. Hugo Cristo Sant'Anna: [hugo.santanna@ufes.br](mailto:hugo.santanna@ufes.br)
 * Atendimento extraclasse (agendado): Cemuni IV, sala 15
 
-## 24/04 - Fundamentos
+## 24/04 - Apresentação e Fundamentos
 
 ### Slides 
 
-Arquivo PDF (14mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf)
+* Apresentação (2.6mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf)
+* Aula 01 (14mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf)
 
 ### Livros
 * Da Silva, J. A. (2003). *Inteligência humana: abordagens biológicas e cognitivas*. São Paulo: Lovise.

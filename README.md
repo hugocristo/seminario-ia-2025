@@ -74,7 +74,6 @@ Conteúdo em construção.
 
 ## 15/05 - IA na Ciência Psicológica
 
-<<<<<<< HEAD
 Conteúdo em construção.
 
 ## 22/05 - Seminários sobre aplicações
@@ -110,6 +109,3 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-=======
-## 22/05 - Seminários sobre aplicações
->>>>>>> 64ce30c4347d7bf1bb16544fa5e1aaffc4355103

@@ -28,6 +28,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * Feigenbaum, E. A., & McCorduck, P. (1983). *The fifth generation*. Addison-Wesley Pub. Disponível em [Open Library](https://archive.org/details/fifthgenerationa0000feig)
 * Feigenbaum, E., McCorduck, P., & Nii, H. P. (1988). *The rise of the expert company*. Times Books. Disponível em [OpenLibrary](https://archive.org/details/riseofexpertco00feig/mode/1up)
 * Mitchell, M. (2019). *Artificial Intelligence: a guide for thinking humans*. New York: Farrar, Straus and Giroux.
+* Piaget, J. (1937/2003). *A construção do real na criança*. 5ª reimpressão. São Paulo: Ática.
 * Rumelhart, D. E., McClelland, J. L., & PDP Research Group. (1986). *Parallel distributed processing, volume 1: Explorations in the microstructure of cognition: Foundations*. Cambridge: The MIT Press.
 * Stern, W. (1914). *The psychological methods of testing intelligence*. Translated by Guy Montrose Whipple. Warwick & York, Inc. Disponível em [Open Library](https://archive.org/details/psychologicalmet00ster/mode/2up?ref=ol)
 * Varela, F., Thompson, E., & Rosch, E. (2001). *A mente corpórea: ciência cognitiva e experiência humana*. Lisboa: Instituto Piaget.

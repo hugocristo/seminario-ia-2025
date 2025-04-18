@@ -23,7 +23,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * Apresentação (2.6mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf)
 * Aula 01 (14mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf)
 
-### Livros
+### Livros consultados
 * Da Silva, J. A. (2003). *Inteligência humana: abordagens biológicas e cognitivas*. São Paulo: Lovise.
 * Feigenbaum, E. A., & McCorduck, P. (1983). *The fifth generation*. Addison-Wesley Pub. Disponível em [Open Library](https://archive.org/details/fifthgenerationa0000feig)
 * Feigenbaum, E., McCorduck, P., & Nii, H. P. (1988). *The rise of the expert company*. Times Books. Disponível em [OpenLibrary](https://archive.org/details/riseofexpertco00feig/mode/1up)
@@ -32,7 +32,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * Stern, W. (1914). *The psychological methods of testing intelligence*. Translated by Guy Montrose Whipple. Warwick & York, Inc. Disponível em [Open Library](https://archive.org/details/psychologicalmet00ster/mode/2up?ref=ol)
 * Varela, F., Thompson, E., & Rosch, E. (2001). *A mente corpórea: ciência cognitiva e experiência humana*. Lisboa: Instituto Piaget.
 
-### Artigos
+### Artigos citados
 * Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2024). Generative AI Can Harm Learning. *Available at SSRN*. https://dx.doi.org/10.2139/ssrn.4895486
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In *Proceedings of the 2021 ACM conference on fairness, accountability, and transparency* (pp. 610-623). https://doi.org/10.1145/3442188.3445922
 * Birhane, A. (2021). Algorithmic injustice: A relational ethics approach. *Patterns*, 2(2). https://doi.org/10.1016/j.patter.2021.100205
@@ -49,7 +49,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł. ukasz, & Polosukhin, I. (2017). Attention is All you Need. Em I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, & R. Garnett (Orgs.), *Advances in Neural Information Processing Systems* (Vol. 30). Curran Associates, Inc. [PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 * Wrightson-Hester, A.-R., Anderson, G., Dunstan, J., McEvoy, P. M., Sutton, C. J., Myers, B., Egan, S., Tai, S., Johnston-Hollitt, M., Chen, W., Gedeon, T., & Mansell, W. (2023). An Artificial Therapist (Manage Your Life Online) to Support the Mental Health of Youth: Co-Design and Case Series. *JMIR Hum Factors*, 10, e46849. https://doi.org/10.2196/46849
 
-### Links para notícias e sites
+### Links para notícias e sites citados
 * CLIPS: A NASA Developed Expert System Tool," NASA Tech Briefs, pp 12-14, Nov/Dec 1987. http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100028277.pdf
 * Stanford (2016): [One Hundred Year Study on Artificial Intelligence](https://ai100.stanford.edu/2016-report)
 * Time (18/01/2023): [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
@@ -61,12 +61,14 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * NPR (2023): [An eating disorders chatbot offered dieting advice, raising fears about AI in health](https://www.npr.org/sections/health-shots/2023/06/08/1180838096/an-eating-disorders-chatbot-offered-dieting-advice-raising-fears-about-ai-in-hea)
 * New York Post (2024): [Boy, 14, fell in love with ‘Game of Thrones’ chatbot — then killed himself after AI app told him to ‘come home’ to ‘her’: mom ](https://nypost.com/2024/10/23/us-news/florida-boy-14-killed-himself-after-falling-in-love-with-game-of-thrones-a-i-chatbot-lawsuit/)
 * Wharton (2024): [Without Guardrails, Generative AI Can Harm Education](https://knowledge.wharton.upenn.edu/article/without-guardrails-generative-ai-can-harm-education/)
+* Psicologia Social Computacional - repositório da pesquisa, acesso aos relatórios e modelos NetLogo: https://github.com/hugocristo/netlogo-tis
 * MIT Technology Review (2025): [An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it](https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/)
 
 ## Vídeos
 * Welch Labs: [ChatGPT is made from 100 million of these [The Perceptron]](https://www.youtube.com/watch?v=l-9ALe3U-Fg)
 * 3Blue1Brown: [Modelos de Linguagem de Grande Escala explicados resumidamente](https://www.youtube.com/watch?v=LPZh9BOjkQs)
 * MATLAB: [What is Explainable AI?](https://www.youtube.com/watch?v=It2Q1eK_Klc)
+* Gravação da aula: *em breve*
 
 ## 08/05 - IAGs e produtividade em pesquisa em Psicologia
 

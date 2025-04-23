@@ -20,7 +20,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 
 ### Slides 
 
-* Apresentação (2.6mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf)
+* Apresentação (2.6mb, protegido): [00-apresentação-protected.pdf](slides/00-apresentação-protected.pdf)
 * Aula 01 (14mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf)
 
 ### Livros consultados

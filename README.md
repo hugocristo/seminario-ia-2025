@@ -65,7 +65,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 * Psicologia Social Computacional - repositório da pesquisa, acesso aos relatórios e modelos NetLogo: https://github.com/hugocristo/netlogo-tis
 * MIT Technology Review (2025): [An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it](https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/)
 
-## Vídeos
+### Vídeos
 * Welch Labs: [ChatGPT is made from 100 million of these [The Perceptron]](https://www.youtube.com/watch?v=l-9ALe3U-Fg)
 * 3Blue1Brown: [Modelos de Linguagem de Grande Escala explicados resumidamente](https://www.youtube.com/watch?v=LPZh9BOjkQs)
 * MATLAB: [What is Explainable AI?](https://www.youtube.com/watch?v=It2Q1eK_Klc)
@@ -73,11 +73,43 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 
 ## 08/05 - IAGs e produtividade em pesquisa em Psicologia
 
-Conteúdo em construção.
+!["Funil Responsável" de Hugo para uso de IAGs em pesquisa](funil-400.png)
+
+### Slides e downloads
+* Continuação da aula 01 (14mb, protegido): [01-fundamentos-protected.pdf](slides/01-fundamentos-protected.pdf) - a partir do slide 82
+* Aula 02 (7mb, protegido): [02-produtividade-protected.pdf](slides/02-produtividade-protected.pdf)
+* [GitHub Desktop](https://github.com/apps/desktop) para clonar este repositório
+* [Ollama](https://ollama.com) para rodar o modelo DeepSeek
+
+### Bases de dados
+* [Estatísticas Covid-19 ES - 27/03 a 01/10/2020](dados/covid-es.xlsx)
+* [Estatísticas Suicídio ES - 2006 a 2016](dados/suicidio-es.xlsx)
+
+### Ferramentas e alternativas
+1. *Definir o problema*: [Elicit](https://elicit.com) ou [Consensus](https://consensus.app/)
+1. *Mapear a literatura*: [Research Rabbit](https://researchrabbitapp.com), [Consensus](https://consensus.app/), [Bohrium](https://www.bohrium.com/) e [Connected Papers](https://www.connectedpapers.com/)
+1. *Estudar a literatura*: [NootebookLM](https://notebooklm.google.com) ou similares ao ChatGPT
+1. *Gerar textos, gráficos e imagens*: [Gemini](https://gemini.google.com) ou similares ao ChatGPT, dependendo de assinatura
+1. *Comunicar resultados de pesquisas*: [Gemini](https://gemini.google.com) ou similares ao ChatGPT, dependendo de assinatura
+1. *Extras*: tradução - [DeepL](https://deepl.com), escrita: [Jenni](https://jenni.ai/), detecção de plágio - [Plagium](https://www.plagium.com/pt/detectordeplagio), detecção de texto feito por IA (frágil!) - [Undetectable.ai](https://undetectable.ai/), biblioteca de prompts - [Promptly AI](https://www.promptly.fyi/library)
+
+### Executando DeepSeek com Ollama
+
+1. Baixar [Ollama](https://ollama.com)
+1. Tecla Windows + digitar `cmd` na busca
+1. Selecionar ícone de **Prompt de Comando**
+1. Aguardar abrir a janela do Prompt
+1. Digitar `ollama run deepseek-r1:1.5b`
+1. Aguardar downloads até exibir mensagem `>>> Send a message (/? for help)`
+1. Para sair, digite `/bye`
 
 ## 15/05 - IA na Ciência Psicológica
 
-Conteúdo em construção.
+### Materiais para discussão
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bj9BD2D3DzA?si=cuGcEiYib3trRXaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Texto para leitura**: Anthropic (27/03/2025): [Tracing the thoughts of a large language model](https://www.anthropic.com/news/tracing-thoughts-language-model)
 
 ## 22/05 - Seminários sobre aplicações
 * **Grupo 1**: Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In *Proceedings of the 2021 ACM conference on fairness, accountability, and transparency* (pp. 610-623). https://doi.org/10.1145/3442188.3445922

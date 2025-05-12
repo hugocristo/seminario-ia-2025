@@ -105,11 +105,13 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 
 ## 15/05 - IA na Ciência Psicológica
 
+### Slides e downloads
+* Continuação da aula 02 (14mb, protegido): [02-produtividade-protected.pdf](slides/02-produtividade-protected.pdf) - a partir do slide 32
+
 ### Materiais para discussão
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bj9BD2D3DzA?si=cuGcEiYib3trRXaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Texto para leitura**: Anthropic (27/03/2025): [Tracing the thoughts of a large language model](https://www.anthropic.com/news/tracing-thoughts-language-model)
+* Vídeo no YouTube: https://www.youtube.com/watch?v=Bj9BD2D3DzA
+* Texto para leitura: Anthropic (27/03/2025): [Tracing the thoughts of a large language model](https://www.anthropic.com/news/tracing-thoughts-language-model)
 
 ## 22/05 - Seminários sobre aplicações
 * **Grupo 1**: Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In *Proceedings of the 2021 ACM conference on fairness, accountability, and transparency* (pp. 610-623). https://doi.org/10.1145/3442188.3445922

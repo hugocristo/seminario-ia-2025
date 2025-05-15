@@ -107,6 +107,7 @@ Os links e vídeos disponíveis neste repositório, incluindo eventuais gravaç�
 
 ### Slides e downloads
 * Continuação da aula 02 (14mb, protegido): [02-produtividade-protected.pdf](slides/02-produtividade-protected.pdf) - a partir do slide 32
+* Recomendações da Anpad sobre uso de IA: [PDF](dados/anpad.pdf)
 
 ### Materiais para discussão
 
